@@ -1,0 +1,55 @@
+.Main{
+    min-height: 90vh;
+    max-height: auto;
+    background-color: #754040;
+  }
+  .top{
+    text-align: center;
+    font-family: 'Alice', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #54466e;
+    padding-top: 3rem;
+  }
+
+  .fal {
+      width: 900%;
+      height: 50px;
+   
+    display: grid;
+    place-items: center;
+    
+  }
+  .plta{
+    height: 50px;
+    width: 200px;
+    background-color:#2a3eb1;
+    color: white;
+    display: grid;
+    place-items: center;
+    font-size: 2.5rem ;
+    cursor: pointer;
+    
+  }
+  
+  .last{
+    min-height: 90%;
+    max-height: auto;
+    width: 100%;
+    background-color: #272c34;
+    margin-top:1rem ;
+     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: right; 
+    
+  }
+  
+  img{
+    height: 150px;
+    object-fit: cover;
+    width: 200px;
+
+    
+    
+  }
